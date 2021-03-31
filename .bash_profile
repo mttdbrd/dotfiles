@@ -1,8 +1,3 @@
-# User specific environment and startup programs
-export EDITOR=nvim
-alias vi=/usr/bin/nvim
-alias vim=/usr/bin/nvim
-[matt@desktop up-and-running]$ cat ~/.bashrc
 # .bashrc
 
 # Source global definitions
